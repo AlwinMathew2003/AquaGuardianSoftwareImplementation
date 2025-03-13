@@ -1,0 +1,2 @@
+FirebaseURL: https://water-quality-sensor-86a32-default-rtdb.firebaseio.com/
+FirebaseAuthKey: aMgoWghGbsxA90wSHm1Cr7YlnpN23z0WyD3v3UUE
